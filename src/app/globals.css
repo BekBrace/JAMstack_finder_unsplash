@@ -115,9 +115,10 @@ input[type="text"] {
 }
 
 button {
+  margin: 10px;
   padding: 10px 20px;
   background-color: #ff7f00; /* Orange button color */
-  color: #fff;
+  color: green;
   border: none;
   border-radius: 5px; /* Border radius for button */
   cursor: pointer;
